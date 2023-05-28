@@ -33,7 +33,7 @@ A <b>Where </b>clause determines whether a row of data should be included in the
 ```
 SELECT column_1, column_2, …
 
-FROM mytable
+FROM table_name
 
 WHERE condition_1
     AND/OR condition_2
