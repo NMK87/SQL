@@ -56,7 +56,7 @@ Below are some useful operators that you can use for numerical data :
 
 | Operator | Descrption | Examples
 |:---|:---|:---
-=,!=,<,<=,>,>=| Numrical operators| col1 >= 5|
+=,!=,<,<=,>,>=| Numerical operators| col1 >= 5|
 AND | Both conditions must be true| col1>2 AND Col2=="Git"|
 OR| Either of the conditions must be true| col1>2 OR Col2=="Git"|
 BETWEEN...AND| Range of numeric values| col1 BETWEEN 20 AND 30|

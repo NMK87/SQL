@@ -8,7 +8,7 @@ By continuing the first part, we see more operators that makes our retirival que
 |:--|:--|:--|
 LIKE| This will compare any string in the database|col1 LIKE "xyz"|
 NOT LIKE| This will not match any string in the database|
-%| Used to match a sequence|col1 LIKE "%xyz"|
+%| Used to match a sequence in a string|col1 LIKE "%xyz"|
 _| Used to match a single character| col1 LIKE "xy_"|
 
 Examples:
